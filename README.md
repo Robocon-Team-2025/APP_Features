@@ -39,12 +39,12 @@ git clone https://github.com/Robocon-Team-2025/APP_Features.git
 ```
 
 ### Step 4: Verify the Clone
-Once the cloning process is complete, navigate to the cloned folder to verify the files:
-```bash
-cd APP_Features
-```
-- You should now see the cloned files in your workspace folder.
-<img width="1280" alt="Screenshot 2024-10-27 181154" src="https://github.com/user-attachments/assets/8cdc360e-15b9-4153-b6cc-3dafbd865c52">
+- Once the cloning process is complete, navigate to the cloned folder to verify the files:
+  ```bash
+  cd APP_Features
+  ```
+- You should now see the cloned files in your workspace folder: 
+  <img width="1280" alt="Screenshot 2024-10-27 181154" src="https://github.com/user-attachments/assets/8cdc360e-15b9-4153-b6cc-3dafbd865c52">
 
 
 ### Step 5: Build the shortcut Robocon Github APP
