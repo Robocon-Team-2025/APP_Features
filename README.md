@@ -8,31 +8,8 @@ In this section, we will guide you through the process of cloning a GitHub repos
 
 **Git** must be installed on your Windows system. If you haven't installed Git yet, you can download it from various options
 
-- ### Option 1: Download from the official Git website
+- ### Download from the official Git website
   - [Git Official Website](https://git-scm.com/download/win).
-- ### Option 2: Install Git using winget (Windows Package Manager)
-  - Or want to use cmd to install the git **More faster ways**
-     ```bash
-     winget install --id Git.Git -e --source winget
-    ```
-  - Verify the installation:
-    ```bash
-    git --version
-    ```
-- ### Option 3: Download and Install Git Manually Using CMD
-  - Download the Git installer using curl:
-     ```bash
-     cd %TEMP% && curl -Lo git-installer.exe https://github.com/git-for-windows/git/releases/latest/download/Git-2.41.0-64-bit.exe
-     ```
-  - Run the Git installer silently:
-    ```bash
-    start /wait git-installer.exe /VERYSILENT /NORESTART
-    ```
-  - Verify the installation:
-    ```bash
-    git --version
-    ```
----
 
 ## Cloning with Command Prompt or PowerShell
 
