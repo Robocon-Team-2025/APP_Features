@@ -44,3 +44,10 @@ Once the cloning process is complete, navigate to the cloned folder to verify th
 cd APP_Features
 ```
 - You should now see the cloned files in your workspace folder.
+<img width="1280" alt="Screenshot 2024-10-27 181154" src="https://github.com/user-attachments/assets/8cdc360e-15b9-4153-b6cc-3dafbd865c52">
+
+
+### Step 5: Build the shortcut Robocon Github APP
+Once you have verified the folder, open the folder and double-click this Create_shortcut file and will auto-generate the Robocon_Github APP on your desktop.
+- <img width="977" alt="s" src="https://github.com/user-attachments/assets/08f0a1b2-7fa8-43be-8a52-e58addb18cd4">
+- <img width="215" alt="Screenshot 2024-10-27 181608" src="https://github.com/user-attachments/assets/0a184531-830b-4475-bd7c-37215301b33e">
