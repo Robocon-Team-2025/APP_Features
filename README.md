@@ -17,6 +17,10 @@ In this section, we will guide you through the process of cloning a GitHub repos
 
 1. Press `Windows + R`, type `cmd` (for Command Prompt) or `powershell`, and press **Enter**.
 2. This will open the terminal where you can run Git commands.
+3. type the command below to git bash terminal:
+  ```bash
+  bash
+  ```
 
 ### Step 2: Navigate to Your Workspace
 
